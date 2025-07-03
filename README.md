@@ -20,4 +20,10 @@ Países: Inclusão global.
 Métrica principal: Mudança de temperatura ao longo do tempo.
 ![newplot](https://github.com/user-attachments/assets/5b6e9e34-6d20-4ade-ae21-146233358455)
 
+![newplot (1)](https://github.com/user-attachments/assets/780c8834-873f-4d25-9c57-4d69bc6001fa)
+
+![newplot (2)](https://github.com/user-attachments/assets/b9327cc7-368b-42c1-95d4-85edbe39c219)
+
+
+
 
